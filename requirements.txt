@@ -1,0 +1,3 @@
+from random import randrange
+from os import system, name
+from time import sleep
